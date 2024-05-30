@@ -7,7 +7,7 @@ Requirements
 
 How to Compile and Run
 1. Clone this repository to your local machine:
-git clone https://github.com/Notz05/PROG-POE-PART1-ST10272691.git
+git clone https://github.com/Notz05/PROG-POE-PART1-ST10272691.git 
 
 2. Navigate to the project directory: 
 cd RecipeApplication
