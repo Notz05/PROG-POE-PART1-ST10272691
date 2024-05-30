@@ -32,4 +32,7 @@ https://github.com/Notz05/PROG-POE-PART1-ST10272691.git
 
 References: 
 Troelsen, A. and Japikse, P. (2022) Pro C# 10 with .NET 6 Foundational Principles and Practices  in Programming. 11th edn. Chambersburg, PA: Apress. 
+Mrzyglod, K. (2022). Azure for Developers 2nd Edition. In K. Mrzyglod, Azure for Developers (p. 944). Birmingham: Pakt Publishing Ltd.
+
+
 
