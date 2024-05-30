@@ -1,4 +1,4 @@
-# PROG-POE-PART1-ST10272691
+# PROG-POE-PART1 AND PART2-ST10272691
 Recipe Application
 Users can input and save information for a single recipe using this C# command-line programme. In order to enter a new recipe, it has functions to show the recipe, scale ingredient quantities, reset quantities to their initial levels, and clear all data.
 
@@ -31,5 +31,5 @@ GitHub Repository:
 https://github.com/Notz05/PROG-POE-PART1-ST10272691.git
 
 References: 
-Troelsen, A. and Japikse, P. (2022) Pro C# 10 with .NET 6 Foundational Principles and Practices  in Programming. 11th edn. Chambersburg, PA: Apress. 
+Troelsen, A. and Japikse, P. (2022) Pro C# 10 with .NET 6 Foundational Principles and PracticesÂ  in Programming. 11th edn. Chambersburg, PA: Apress. 
 
